@@ -122,9 +122,6 @@ This deep learning model classifies leaf images into disease categories using a 
 ---
 
 🔗  Conclusion
-Here’s the **Conclusion** rewritten in passage form:
-
----
 
 In conclusion, this crop disease detection project demonstrates the effective application of deep learning techniques, particularly Convolutional Neural Networks (CNNs), in solving real-world agricultural problems.This deep learning-based system simplifies the crop disease detection process, providing farmers and researchers with a one-click solution to identify diseases and take preventive actions promptly. While currently limited to a fixed number of crops, it lays a strong foundation for scalable precision agriculture tools.
 
